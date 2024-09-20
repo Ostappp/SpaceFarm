@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbcce222a0b773941a29005561d09b89, type: 3}
+  m_Name: CornData
+  m_EditorClassIdentifier: 
+  _name: Corn
+  _plantSeeds: 4
+  _dropSeeds: 10
+  _seedsTexture: {fileID: 2800000, guid: 89d1bc7a6627c024793ebb15107694af, type: 3}
+  _stageModels:
+  - model: {fileID: 919132149155446097, guid: 1f5c6c0367a9e934ea350883cf7f74a6, type: 3}
+    duration: 3
+  - model: {fileID: 8989920473411657853, guid: 51761e42f16cf8d45a99df45df315301, type: 3}
+    duration: 5
+  - model: {fileID: 8688713707388336959, guid: e4a62b390d1787c478bad1eb25e9cb18, type: 3}
+    duration: 5
+  - model: {fileID: 7250949284780995021, guid: eb8fed1298b1699478b3d915fc0b538a, type: 3}
+    duration: 5
+  - model: {fileID: 7322462495265243113, guid: f2974d48a2112d348b985a37d2cae675, type: 3}
+    duration: 5
+  - model: {fileID: 9129975595586412683, guid: e4928419b648cb54da7f98f480a1922b, type: 3}
+    duration: 5
